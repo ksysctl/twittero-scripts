@@ -1,0 +1,11 @@
+These scripts are for twittero client.
+
+Should put in:
+$HOME/.twittero/scripts/
+
+an then, set $HOME/.twittero/twittero.conf
+
+player = script_filename_whitout_extension
+
+Example:
+player = banshee
