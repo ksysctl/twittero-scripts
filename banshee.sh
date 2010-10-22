@@ -6,7 +6,7 @@
 # Banshee Script for Twittero
 # -----------------------------------------------------------
 # $author: Moises Brenes <moises.brenes@gmail.com>
-# $license: BSD License - $depends: songbird - dbus - mpris
+# $license: BSD License - $depends: banshee - dbus
 # -----------------------------------------------------------
 
 import dbus
